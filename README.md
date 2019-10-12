@@ -2,6 +2,10 @@
 
 I am not a scientist of human gustatory system. I just want feedback about my thoughts.
 
+Please give me feedback. Please tell me typos and unclear sentences.
+
+Open an issue at github or write me: guettli.tastebias@thomas-guettler.de
+
 
 About taste in general (from Wikipedia)
 
