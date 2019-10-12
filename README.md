@@ -21,4 +21,30 @@ We add salt and other flavor enhancers to our pasta to fool ourselves.
 
 It tasts better but the content is still the same.
 
+It is like buying a fancy racecar, but the racecar's engine has the power of a moped.
+
+We fool our self daily.
+
+The next bias is how the food looks.
+
+A light-brown lentil soup looks boring.
+
+Fast food looks nice.
+
+> Humans have a multitude of sensors. Sight (vision, visual sense), hearing (audition, auditory sense), taste (gustation, gustatory sense), smell (olfaction, olfactory sense), and touch (somatosensation, somatosensory sense) are the five traditionally recognized senses. 
+
+Two of our senses tend to prefer food which does not give us
+What we really need.
+
+# Biases
+
+There is a list of biases at Wikipedia.
+
+Up to now the taste bias is not part of this list:
+
+https://en.m.wikipedia.org/wiki/Bias
+
+# Why?
+
+Why is the taste bias not in this list?
 
