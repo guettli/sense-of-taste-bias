@@ -41,6 +41,18 @@ Two of our senses tend to prefer
 food which does not give us
 what we really need.
 
+# Tofu
+
+For me a good example is tofu.
+
+Tofu does not taste. It does not taste good
+and it does not taste good. It just does
+not taste at all - like air.
+
+But it contains a lot of good stuff.
+
+Our gustatory system is very broken.
+
 # Biases
 
 There is a list of biases at Wikipedia.
