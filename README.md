@@ -33,8 +33,9 @@ Fast food looks nice.
 
 > Humans have a multitude of sensors. Sight (vision, visual sense), hearing (audition, auditory sense), taste (gustation, gustatory sense), smell (olfaction, olfactory sense), and touch (somatosensation, somatosensory sense) are the five traditionally recognized senses. 
 
-Two of our senses tend to prefer food which does not give us
-What we really need.
+Two of our senses tend to prefer
+food which does not give us
+what we really need.
 
 # Biases
 
