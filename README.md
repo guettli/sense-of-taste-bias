@@ -26,6 +26,7 @@ We add salt and other flavor enhancers to our pasta to fool ourselves.
 It tastes better but the content is still the same.
 
 It is like buying a fancy racecar, but the racecar's engine has the power of a moped.
+It looks strong, but in truth it is weak.
 
 We fool our self daily.
 
