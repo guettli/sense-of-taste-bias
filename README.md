@@ -23,7 +23,7 @@ From Wikipedia:
 
 We add salt and other flavor enhancers to our pasta to fool ourselves.
 
-It tasts better but the content is still the same.
+It tastes better but the content is still the same.
 
 It is like buying a fancy racecar, but the racecar's engine has the power of a moped.
 
@@ -46,7 +46,7 @@ what we really need.
 For me a good example is tofu.
 
 Tofu does not taste. It does not taste good
-and it does not taste good. It just does
+and it does not taste bad. It just does
 not taste at all - like air.
 
 But it contains a lot of good stuff.
